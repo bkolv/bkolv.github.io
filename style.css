@@ -67,7 +67,7 @@ h3 {
 }
 p,table {
     font-size: 12px;
-    padding-left: 10px;
+    text-align: justify;
 }
 .gold {
     background-color: gold;
